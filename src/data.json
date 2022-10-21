@@ -1,0 +1,26 @@
+{
+  "cart": {
+    "name": {
+      "name": "菜名",
+      "price": "价格",
+      "count": "数量",
+      "picture": "图片名（1.jpg）",
+      "status" : "结算状态，0为未结算，1为已结算",
+      "detail" : "菜品描述信息"
+    }
+  },
+  "menu": [{
+    "name": "菜名",
+    "price": "价格",
+    "sel": "销量",
+    "category": "种类",
+    "img": "图片名（1.jpg）"
+  }],
+  "ordered": [{
+    "name": "菜名",
+    "price": "价格",
+    "count": "数量",
+    "picture": "图片名（1.jpg）",
+    "status" : "结算状态，0为未结算，1为已结算"
+  }]
+}
